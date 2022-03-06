@@ -1,0 +1,60 @@
+
+
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+
+Skills
+----------------------------------------------
+I love to create design which speaks, Keep it clean, minimal and simple.
+I LIKE TO DESIGN
+Web Design
+Mobile Apps
+TOOLS
+Figma
+
+I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+SKILLS
+Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+
+TOOLS
+VScode, Github, VScode etc.
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+I'm a aspired software engineer located in Boston, MA. I love to create simple yet beautiful design and find the most efficient ways to optimize programs.
+
+I'm interested in the whole frontend and backend stack Like trying new things and building great projects. I'm currently a sophomore majoring in Computer Science @ Boston University and a casual blogger.
+
+I like to write blogs and sing in the shower, my shower head really appreciate my show every night. 
+
+I believe everything happens to you for a reason. Feel free to connect with me via social links.
+----------------------------------------------
+
+
+Theme
+----------------------------------------------
+    body:"#FCF6F4",
+    text:"#000000",
+    fontFamily:"'Source Sans Pro', sans-serif",
+    bodyRgba : "252, 246, 244",
+    textRgba:"0,0,0",
+
+
+----------------------------------------------
+
+
+
+
+
+
