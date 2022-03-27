@@ -1,12 +1,12 @@
 export const Blogs = [
   {
     id: 1,
-    name:
-      'Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations',
-    tags: ['#'],
-    date: '13 May, 2022',
-    imgSrc: '#',
-    link: '#',
+    name: 'CATALYST 2022 - DustyPaws',
+    tags: ['Figma', 'Designathon', 'Project'],
+    date: '27, March 2022',
+    imgSrc:
+      'https://uploads-ssl.webflow.com/61b8fa28999e1077686ea7e0/624082e2f7abaa02a200e167_Dashboard%20Page.png',
+    link: 'https://macys-blog.webflow.io/posts/catalyst-2022-dusty-paws',
   },
   {
     id: 2,
