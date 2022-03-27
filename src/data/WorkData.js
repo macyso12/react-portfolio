@@ -6,10 +6,10 @@ export const Work = [
       'Educational web application for new dog-adoptees and shelter organizations',
     tags: ['Design', 'Figma', 'Designathon'],
 
-    demo:
+    demo: 'https://devpost.com/software/dustypaws',
+    github: '#',
+    figma:
       'https://www.figma.com/file/lFKQmwDZB2KzlW5tQcs2Sl/Catalyst-2022?node-id=2%3A2',
-    github:
-      'https://docs.google.com/document/d/1qcMAnl3N2bo9iet1gN_UwsAWeXjf-ih9VP187Zjtm3c/edit?usp=sharing',
   },
   {
     id: 2,
@@ -18,6 +18,8 @@ export const Work = [
       'Creating small "lecture-style" projects to demonstrate programming languages from FrontEnd to BackEnd',
     tags: ['Hack4Impact', 'FrontEnd', 'BackEnd'],
 
+    demo: '#',
+    figma: '#',
     github: 'https://github.com/macyso12/Hack4Impact',
   },
   {
@@ -29,6 +31,7 @@ export const Work = [
 
     demo: 'https://lnkd.in/eQz5K4Zx',
     github: 'https://github.com/macyso12/Bu-web-recreate',
+    figma: 'https://lnkd.in/eQz5K4Zx',
   },
   {
     id: 4,
@@ -40,5 +43,6 @@ export const Work = [
     demo:
       'https://www.linkedin.com/in/macyso/details/experience/1787584408/multiple-media-viewer/?treasuryMediaId=1635460859291',
     github: 'https://github.com/macyso12/Cloisters_App',
+    figma: '#',
   },
 ];
