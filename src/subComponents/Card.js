@@ -106,12 +106,16 @@ const Card = (props) => {
         <Link to={{pathname: `${demo}`}} target="_blank">
           Visit
         </Link>
-        <Git to={{pathname: `${github}`}} target="_blank">
-          <Github width={30} height={30} />
-        </Git>
-        <Git to={{pathname: `${figma}`}} target="_blank">
-          <Figma width={30} height={30} />
-        </Git>
+        {github !== '#' ? (
+          <Git to={{pathname: `${github}`}} target="_blank">
+            <Github width={30} height={30} />
+          </Git>
+        ) : null}
+        {figma !== '#' ? (
+          <Git to={{pathname: `${figma}`}} target="_blank">
+            <Figma width={30} height={30} />
+          </Git>
+        ) : null}
       </Footer>
     </Box>
   );

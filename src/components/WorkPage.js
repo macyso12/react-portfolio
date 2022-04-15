@@ -88,24 +88,24 @@ const WorkPage = () => {
 
     return (
         <ThemeProvider theme={DarkTheme}>
-<Box>
+        <Box>
 
-<LogoComponent theme='dark'/>
-<SocialIcons theme='dark'/>
-<PowerButton />
+        <LogoComponent theme='dark'/>
+        <SocialIcons theme='dark'/>
+        <PowerButton />
 
-     <Main ref={ref}   variants={container} initial='hidden' animate='show'  >
-         {
-            Work.map( d => 
-            <Card key={d.id} data={d} />
-            )
-         }
-     </Main>
-<Rotate ref={yinyang}>
-    <YinYang width={80} height={80} fill={DarkTheme.text} />
-</Rotate>
+            <Main ref={ref}   variants={container} initial='hidden' animate='show'  >
+                {
+                    Work.map( d => 
+                    <Card key={d.id} data={d} />
+                    )
+                }
+            </Main>
+        <Rotate ref={yinyang}>
+            <YinYang width={80} height={80} fill={DarkTheme.text} />
+        </Rotate>
 
-<BigTitlte text="WORK" top='10%' right="20%" />
+        <BigTitlte text="WORK" top='10%' right="20%" />
         </Box>
 
         </ThemeProvider>
