@@ -1,6 +1,30 @@
 export const Work = [
   {
     id: 1,
+    name: 'Shuttle',
+    description:
+      'A web application where you can search and look for campus clubs [work in progress]',
+    tags: ['Design', 'Figma', 'Campus-Clubs'],
+
+    demo:
+      'https://www.figma.com/file/7KeVaB39ZkHoWCLppnvwTU/Shuttle-Draft?node-id=0%3A1',
+    github: '#',
+    figma:
+      'https://www.figma.com/file/7KeVaB39ZkHoWCLppnvwTU/Shuttle-Draft?node-id=0%3A1',
+  },
+  {
+    id: 1,
+    name: 'Website Templates',
+    description:
+      'A website templates for artist who are looking for minimalistic website look and field [work in progress]',
+    tags: ['Design', 'React', 'Template'],
+
+    demo: 'https://github.com/macyso12/website-template-2.0',
+    github: 'https://github.com/macyso12/website-template-2.0',
+    figma: '#',
+  },
+  {
+    id: 1,
     name: 'Jingles',
     description:
       'An mobile application that recommend trending music and connect you with your friends',

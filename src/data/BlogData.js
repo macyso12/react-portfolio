@@ -1,6 +1,24 @@
 export const Blogs = [
   {
     id: 1,
+    name: 'Landing my 1st Software Engineer Internship',
+    tags: ['internship', 'software engineer'],
+    date: '10, May 2022',
+    imgSrc:
+      'https://uploads-ssl.webflow.com/61b8fa28999e1077686ea7e0/626b1f2a8f9d9f35bb29ab6b_christina-wocintechchat-com-NNQlZDbLTm8-unsplash-p-1080.jpeg',
+    link: 'https://macys-blog.webflow.io/posts/software-engineer-internal',
+  },
+  {
+    id: 2,
+    name: 'Pairs Trip Summer 2022',
+    tags: ['Travel', 'Pairs'],
+    date: '27, March 2022',
+    imgSrc:
+      'https://uploads-ssl.webflow.com/61b8fa28999e1077686ea7e0/6293847db289f21ef27e3a88_leonard-cotte-R5scocnOOdM-unsplash-p-1080.jpeg',
+    link: 'https://macys-blog.webflow.io/posts/london-summer22',
+  },
+  {
+    id: 3,
     name: 'CATALYST 2022 - DustyPaws',
     tags: ['Figma', 'Designathon', 'Project'],
     date: '27, March 2022',
@@ -9,7 +27,7 @@ export const Blogs = [
     link: 'https://macys-blog.webflow.io/posts/catalyst-2022-dusty-paws',
   },
   {
-    id: 2,
+    id: 4,
     name: 'Coffee Chats with Skilbi Mentors',
     tags: ['Skilbi', 'Coffee-Chats', 'Mentors'],
     date: '5 Mar, 2022',
@@ -19,7 +37,7 @@ export const Blogs = [
       'https://macys-blog.webflow.io/posts/coffee-chats-with-skilbi-mentors',
   },
   {
-    id: 3,
+    id: 5,
     name: 'BU Student Link Redesign + Code',
     tags: ['UXUI', 'Design', 'React'],
     date: '4 Mar, 2022',
@@ -29,7 +47,7 @@ export const Blogs = [
       'https://macys-blog.webflow.io/posts/bu-student-link-web-redesign-code',
   },
   {
-    id: 4,
+    id: 6,
     name: 'My Google Step Interview Experience',
     tags: ['Interview', 'Career', 'FAANG'],
     date: '2 Jan, 2022',
@@ -38,7 +56,7 @@ export const Blogs = [
     link: 'https://macys-blog.webflow.io/posts/google-step-program-interview',
   },
   {
-    id: 5,
+    id: 7,
     name: 'Spending Christmas With Me In New York City',
     tags: ['Chrisitmas', 'Winter-break', 'New York'],
     date: '28 Dec, 2021',
@@ -47,7 +65,7 @@ export const Blogs = [
     link: 'https://macys-blog.webflow.io/posts/christmas-in-nyc',
   },
   {
-    id: 6,
+    id: 8,
     name: 'How I Build My Own Website',
     tags: ['HTML', 'CSS', 'Portfolio'],
     date: '23 Dec, 2021',
@@ -57,7 +75,7 @@ export const Blogs = [
   },
 
   {
-    id: 7,
+    id: 9,
     name: "What It's Like Studying For A Computer Science Finals?",
     tags: ['finals', 'college', 'Computer Science'],
     date: '21 Dec, 2021',
@@ -66,7 +84,7 @@ export const Blogs = [
     link: 'https://macys-blog.webflow.io/posts/final-exam-2021',
   },
   {
-    id: 8,
+    id: 10,
     name: 'Welcome To My First Blog!',
     tags: ['blog', 'journal'],
     date: '20 Dec, 2021',
